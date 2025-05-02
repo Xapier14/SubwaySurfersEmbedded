@@ -1,5 +1,5 @@
 # Subway Surfers Embedded
-Play Subway Surfers on while you code!
+Play Subway Surfers while you code!
 
 ## Getting Started
 1. Install the extension.
